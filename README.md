@@ -29,8 +29,4 @@ Sou um Engenheiro de Software com 5 anos de experiência, focado na construção
 
 ---
 
-### 📊 GitHub Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarussi&show_icons=true&theme=dracula&hide=stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarussi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 [Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-marussi-dev/)
