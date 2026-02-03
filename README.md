@@ -29,4 +29,4 @@ Sou um Engenheiro de Software com 5 anos de experiência, focado na construção
 
 ---
 
-[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-marussi-dev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marussi-dev/)
