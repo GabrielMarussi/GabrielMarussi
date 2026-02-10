@@ -1,5 +1,5 @@
 # Olá, eu sou Gabriel Marussi! 👋
-## Desenvolvedor Full Stack | Backend Specialist & Frontend Performance
+## Lead Software Engineer | Backend Specialist & Frontend Performance
 
 Sou um Engenheiro de Software com 5 anos de experiência, focado na construção de sistemas robustos e escaláveis. Minha especialidade é o **Backend**, mas possuo forte domínio de **Frontend Avançado**, sempre priorizando performance, arquitetura limpa e solidez no código.
 
